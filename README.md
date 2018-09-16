@@ -5,7 +5,7 @@ script to unlock and unblur scribd documents for free
 
 It is  A Greasemonkey/Scriptish/Tampermonkey user script that unlock Scribd.com document pages for non-registered users.
 
-#Getting started
+# Getting started
 Step 1: Install either one of these user-script add-ons for your browser:
 
 Greasemonkey for Firefox
